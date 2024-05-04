@@ -1,0 +1,14 @@
+h1 {
+    font-size: 8em;
+    font-weight: 400;
+    color: #c91414;
+}
+
+button {
+    padding: 0.9em 2em;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 2em;
+    background-color: #c91414;
+}
